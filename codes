@@ -1,1 +1,3 @@
 def area(l,w):
+a=l*w
+return a
